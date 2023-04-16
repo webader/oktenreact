@@ -1,11 +1,13 @@
 import React from 'react';
-import Simpsons from "./components/Sipmsons/Simpsons";
+// import Simpsons from "./components/Sipmsons/Simpsons";
+import Characters from "./components/Characters/Characters";
 
 
 const App = () => {
   return (
       <div>
-        <Simpsons/>
+        {/*<Simpsons/>*/}
+          <Characters/>
       </div>
   );
 };
