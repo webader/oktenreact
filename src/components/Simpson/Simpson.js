@@ -7,7 +7,7 @@ const Simpson = ({simpson}) => {
             <div>id: {id}</div>
             <div>name: {name}</div>
             <div>surname: {surname}</div>
-            <div>age: {age}</div>
+            <div>age: {age} </div>
             <p>info: {info}</p>
             <img src={photo} alt={name}/>
         </div>
