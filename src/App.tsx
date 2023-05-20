@@ -1,11 +1,11 @@
-import React from 'react';
+import {Cars} from './components/Cars';
 
 const App = () => {
-  return (
-      <div>
-        App
-      </div>
-  );
+    return (
+        <div>
+            <Cars/>
+        </div>
+    );
 };
 
 export default App;
